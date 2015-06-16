@@ -7,6 +7,8 @@ import static org.testng.Assert.*;
 import static sort.insertion.InsertionSorter.*;
 
 /**
+ * TestNG tests for static methods in InsertionSorter class
+ *
  * Created by V Ivanovs on 16/06/2015.
  */
 public class InsertionSorterTest {
